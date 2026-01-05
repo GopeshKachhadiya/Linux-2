@@ -10,6 +10,17 @@ Post-compromise enumeration reveals a sudo misconfiguration that enables privile
 The lab is designed to follow a black-box penetration testing methodology and focuses on common real-world weaknesses found in legacy or poorly managed internal servers.
 
 ---
+## Machine Download Link 
+
+Download lab from the google drive: https://drive.google.com/drive/folders/1rWdOduW8pDaH-XfEMudOf_laHHTLDwKt?usp=drive_link
+
+---
+
+## Machine Walkthrough 
+
+Complete guide to solve the machine : https://drive.google.com/drive/folders/1rWdOduW8pDaH-XfEMudOf_laHHTLDwKt?usp=drive_link
+
+---
 
 ## Lab Objectives
 
