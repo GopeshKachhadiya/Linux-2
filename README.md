@@ -1,7 +1,5 @@
 # Linux-2
 
-# Linux Lab 2 – FTP Brute Force and Privilege Escalation
-
 ## Project Overview
 
 Linux Lab 2 is part of a multi-machine vulnerable lab environment designed to simulate a small enterprise network for offensive security training.  
