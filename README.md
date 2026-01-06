@@ -12,13 +12,13 @@ The lab is designed to follow a black-box penetration testing methodology and fo
 ---
 ## Machine Download Link 
 
-Download lab from the google drive: https://drive.google.com/drive/folders/1rWdOduW8pDaH-XfEMudOf_laHHTLDwKt?usp=drive_link
+Download lab from the google drive: https://drive.google.com/drive/folders/1wRIrfMgsfSUPTlM_-4VP_3aMfttFJDCq?usp=drive_link
 
 ---
 
 ## Machine Walkthrough 
 
-Complete guide to solve the machine : https://drive.google.com/drive/folders/1rWdOduW8pDaH-XfEMudOf_laHHTLDwKt?usp=drive_link
+Complete guide to solve the machine : https://drive.google.com/file/d/19si_QPtUoAsBdD6WzlTmIO1NdlC5_Kjh/view?usp=sharing
 
 ---
 
