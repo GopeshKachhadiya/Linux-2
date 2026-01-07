@@ -10,16 +10,14 @@ Post-compromise enumeration reveals a sudo misconfiguration that enables privile
 The lab is designed to follow a black-box penetration testing methodology and focuses on common real-world weaknesses found in legacy or poorly managed internal servers.
 
 ---
-## Machine Download Link 
 
-Download lab from the google drive: https://drive.google.com/drive/folders/1wRIrfMgsfSUPTlM_-4VP_3aMfttFJDCq?usp=drive_link
+## Important Links:  
 
----
-
-## Machine Walkthrough 
-
-Complete guide to solve the machine : https://drive.google.com/file/d/19si_QPtUoAsBdD6WzlTmIO1NdlC5_Kjh/view?usp=sharing
-
+#### - Download Linux-2 : https://mega.nz/file/jYBz1TaT#zKrmyxzrzlerT8l7sB1nnEuMtDfnYG0_tglAcujfPmw
+#### - Documentation for Linux-2 With Walkthrough: https://mega.nz/file/rM5BlL7T#bCw93kBTEgJ4BHpIS53-fN3UVQXbn5Eh81pnD-M7PtU
+#### - Bruteforce Wordlist:
+  ##### 1. User name wordlist:https://mega.nz/file/bBgnjTAT#6oXhVVIwlLo6p5B2iltI4ixC50yIiKtaQvqq8kLk_fg
+  ##### 2. Password wordlist: https://mega.nz/file/qF5RHCpJ#f0ggoGrMh0jHhgupBxS3Jnv7DxIjzF5hjUqMdm4IX7s
 ---
 
 ## Lab Objectives
