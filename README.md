@@ -184,7 +184,10 @@ ftpuser ALL=(ALL) NOPASSWD: /bin/bash
 This lab is intended strictly for educational and ethical penetration testing purposes.
 Do not deploy these configurations in production environments.
 
-## Author
+## Created By
 
-Created BY Gopesh Kachhadiya
-This lab was created as part of an offensive cybersecurity internship project focused on realistic enterprise attack simulations and hands-on learning.
+- Name: Gopesh Kachhadiya
+- Role: Junior Penetration Tester 
+- Purpose: Internship Project and Skill Demonstration
+- Domain: Offensive Security and AI Penetration Testing
+- This lab was created as part of an offensive cybersecurity internship project focused on realistic attack simulations and hands-on learning.
