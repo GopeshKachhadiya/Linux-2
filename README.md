@@ -16,8 +16,8 @@ The lab is designed to follow a black-box penetration testing methodology and fo
 #### - Download Linux-2 : https://mega.nz/file/jYBz1TaT#zKrmyxzrzlerT8l7sB1nnEuMtDfnYG0_tglAcujfPmw
 #### - Documentation for Linux-2 With Walkthrough: https://mega.nz/file/rM5BlL7T#bCw93kBTEgJ4BHpIS53-fN3UVQXbn5Eh81pnD-M7PtU
 #### - Bruteforce Wordlist:
-  ##### 1. User name wordlist:https://mega.nz/file/bBgnjTAT#6oXhVVIwlLo6p5B2iltI4ixC50yIiKtaQvqq8kLk_fg
-  ##### 2. Password wordlist: https://mega.nz/file/qF5RHCpJ#f0ggoGrMh0jHhgupBxS3Jnv7DxIjzF5hjUqMdm4IX7s
+     1. User name wordlist:https://mega.nz/file/bBgnjTAT#6oXhVVIwlLo6p5B2iltI4ixC50yIiKtaQvqq8kLk_fg
+     2. Password wordlist: https://mega.nz/file/qF5RHCpJ#f0ggoGrMh0jHhgupBxS3Jnv7DxIjzF5hjUqMdm4IX7s
 ---
 
 ## Lab Objectives
