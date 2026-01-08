@@ -18,6 +18,7 @@ The lab is designed to follow a black-box penetration testing methodology and fo
  - Bruteforce Wordlist:
      1. User name wordlist:https://mega.nz/file/bBgnjTAT#6oXhVVIwlLo6p5B2iltI4ixC50yIiKtaQvqq8kLk_fg
      2. Password wordlist: https://mega.nz/file/qF5RHCpJ#f0ggoGrMh0jHhgupBxS3Jnv7DxIjzF5hjUqMdm4IX7s
+ - Guide for Downloading and Running Vulnerable Labs in VMware: https://mega.nz/file/WEADkSZI#MvjDTY0KfGxxmyVezcEnAjdz48AQ1adV4XlW9lmhSVo
 ---
 
 ## Lab Objectives
